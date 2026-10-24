@@ -22,6 +22,34 @@ const HERO_SLIDES = [
     sub2a: "mastering com ",
     sub2b: "qualidade profissional.",
   },
+  {
+    kicker: "Estúdio Profissional",
+    title: ["Gravação", "& Produção"],
+    sub1: "Captação limpa, direcional e",
+    sub2a: "com o ambiente ideal para ",
+    sub2b: "cada artista.",
+  },
+  {
+    kicker: "Som Pronto para o Mundo",
+    title: ["Mistura", "& Mastering"],
+    sub1: "Equilíbrio, impacto e clareza",
+    sub2a: "prontos para todas as ",
+    sub2b: "plataformas.",
+  },
+  {
+    kicker: "Música com Identidade",
+    title: ["Criação", "com alma"],
+    sub1: "Do primeiro acorde à versão final,",
+    sub2a: "cuidamos de cada ",
+    sub2b: "detalhe.",
+  },
+  {
+    kicker: "Para Artistas e Projetos",
+    title: ["Da ideia", "ao lançamento"],
+    sub1: "Acompanhamento completo do teu",
+    sub2a: "projeto com ",
+    sub2b: "resultados reais.",
+  },
 ];
 
 export default function Hero() {
@@ -32,7 +60,7 @@ export default function Hero() {
   useEffect(() => {
     const id = setInterval(() => {
       setIndex((i) => (i + 1) % HERO_SLIDES.length);
-    }, 5000);
+    }, 5500);
     return () => clearInterval(id);
   }, []);
 
