@@ -1,0 +1,78 @@
+- generic [ref=f5e2]:
+  - banner [ref=f5e3]:
+    - generic [ref=f5e4]:
+      - link "Maré Alta Music — Início":
+        - /url: /
+        - img "Maré Alta Music" [ref=f5e5] [cursor=pointer]
+      - navigation [ref=f5e6]:
+        - list [ref=f5e7]:
+          - listitem [ref=f5e8]:
+            - link "Início" [ref=f5e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f5e10]:
+            - link "Sobre Nós" [ref=f5e11] [cursor=pointer]:
+              - /url: /sobre
+          - listitem [ref=f5e12]:
+            - link "Serviços" [ref=f5e13] [cursor=pointer]:
+              - /url: /servicos
+          - listitem [ref=f5e14]:
+            - link "Portfólio" [ref=f5e15] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=f5e17]:
+            - link "Artistas" [ref=f5e18] [cursor=pointer]:
+              - /url: /artistas
+          - listitem [ref=f5e19]:
+            - link "Contacto" [ref=f5e20] [cursor=pointer]:
+              - /url: /contacto
+      - generic [ref=f5e21]:
+        - button "Ativar modo claro" [ref=f5e22]
+        - link "Fale Conosco" [ref=f5e29] [cursor=pointer]:
+          - /url: /contacto
+  - main [ref=f5e33]:
+    - generic [ref=f5e35]:
+      - paragraph [ref=f5e36]: PORTFÓLIO
+      - heading "Juntos criamos grandes histórias." [level=1] [ref=f5e37]
+      - paragraph [ref=f5e38]: Uma seleção de trabalhos, sessões e produções realizadas no nosso estúdio.
+    - generic [ref=f5e40]:
+      - generic [ref=f5e41]:
+        - figure "Sessão de Estúdio GRAVAÇÃO" [ref=f5e42]:
+          - img "Sessão de Estúdio" [ref=f5e44]
+          - generic [ref=f5e45]:
+            - generic [ref=f5e46]: Sessão de Estúdio
+            - generic [ref=f5e47]: GRAVAÇÃO
+        - figure "Produção Musical PRODUÇÃO" [ref=f5e48]:
+          - img "Produção Musical" [ref=f5e50]
+          - generic [ref=f5e51]:
+            - generic [ref=f5e52]: Produção Musical
+            - generic [ref=f5e53]: PRODUÇÃO
+        - figure "Mixagem & Master PÓS" [ref=f5e54]:
+          - img "Mixagem & Master" [ref=f5e56]
+          - generic [ref=f5e57]:
+            - generic [ref=f5e58]: Mixagem & Master
+            - generic [ref=f5e59]: PÓS
+        - figure "Videoclipe VÍDEO" [ref=f5e60]:
+          - img "Videoclipe" [ref=f5e62]
+          - generic [ref=f5e63]:
+            - generic [ref=f5e64]: Videoclipe
+            - generic [ref=f5e65]: VÍDEO
+        - figure "Bastidores ESTÚDIO" [ref=f5e66]:
+          - img "Bastidores" [ref=f5e68]
+          - generic [ref=f5e69]:
+            - generic [ref=f5e70]: Bastidores
+            - generic [ref=f5e71]: ESTÚDIO
+        - figure "Maré Alta Sessions LIVE" [ref=f5e72]:
+          - img "Maré Alta Sessions" [ref=f5e74]
+          - generic [ref=f5e75]:
+            - generic [ref=f5e76]: Maré Alta Sessions
+            - generic [ref=f5e77]: LIVE
+      - generic [ref=f5e78]:
+        - paragraph [ref=f5e79]:
+          - text: Queres ver o teu projeto aqui?
+          - strong [ref=f5e80]: Vamos trabalhar juntos.
+        - link "Fale Conosco" [ref=f5e81] [cursor=pointer]:
+          - /url: /contacto
+  - contentinfo [ref=f5e85]:
+    - generic [ref=f5e86]:
+      - img "Maré Alta Music" [ref=f5e87]
+      - paragraph [ref=f5e88]: © 2025 Maré Alta Music. Todos os direitos reservados.
+      - generic [ref=f5e89]: MÚSICA • CONEXÃO • FUTURO

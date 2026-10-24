@@ -1,0 +1,91 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e2]:
+    - banner [ref=f8e3]:
+      - generic [ref=f8e4]:
+        - link "Maré Alta Music — Início":
+          - /url: /
+          - img "Maré Alta Music" [ref=f8e5] [cursor=pointer]
+        - navigation [ref=f8e6]:
+          - list [ref=f8e7]:
+            - listitem [ref=f8e8]:
+              - link "Início" [ref=f8e9] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f8e10]:
+              - link "Sobre Nós" [ref=f8e11] [cursor=pointer]:
+                - /url: /sobre
+            - listitem [ref=f8e12]:
+              - link "Serviços" [ref=f8e13] [cursor=pointer]:
+                - /url: /servicos
+            - listitem [ref=f8e14]:
+              - link "Portfólio" [ref=f8e15] [cursor=pointer]:
+                - /url: /portfolio
+            - listitem [ref=f8e16]:
+              - link "Artistas" [ref=f8e17] [cursor=pointer]:
+                - /url: /artistas
+            - listitem [ref=f8e18]:
+              - link "Contacto" [ref=f8e19] [cursor=pointer]:
+                - /url: /contacto
+        - generic [ref=f8e21]:
+          - button "Ativar modo claro" [ref=f8e22]
+          - link "Fale Conosco" [ref=f8e29] [cursor=pointer]:
+            - /url: /contacto
+    - main [ref=f8e33]:
+      - generic [ref=f8e35]:
+        - paragraph [ref=f8e36]: FALE CONNOSCO
+        - heading "Vamos criar algo juntos." [level=1] [ref=f8e37]
+        - paragraph [ref=f8e38]: Conta-nos o teu projecto — respondemos normalmente em menos de 24 horas.
+      - generic [ref=f8e40]:
+        - generic [ref=f8e41]:
+          - link [ref=f8e42] [cursor=pointer]:
+            - /url: tel:+244951175720
+            - generic [ref=f8e46]:
+              - paragraph [ref=f8e47]: TELEFONE
+              - paragraph [ref=f8e48]: 951 175 720
+          - link [ref=f8e49] [cursor=pointer]:
+            - /url: https://wa.me/244932932371
+            - generic [ref=f8e53]:
+              - paragraph [ref=f8e54]: WHATSAPP
+              - paragraph [ref=f8e55]: +244 932 932 371
+          - generic [ref=f8e61]:
+            - paragraph [ref=f8e62]: ESTÚDIO
+            - paragraph [ref=f8e63]: Benfica, Zona Verde III, Rua 9 — Benguela
+          - generic [ref=f8e69]:
+            - paragraph [ref=f8e70]: HORÁRIO
+            - paragraph [ref=f8e71]: "Seg – Sáb: 09h00 às 20h00"
+          - generic [ref=f8e72]:
+            - paragraph [ref=f8e73]: SIGA-NOS
+            - generic [ref=f8e74]:
+              - link "Facebook" [ref=f8e75] [cursor=pointer]:
+                - /url: https://www.facebook.com/profile.php?id=61592795680498
+              - link "Instagram" [ref=f8e76] [cursor=pointer]:
+                - /url: "#"
+              - link "YouTube" [ref=f8e77] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f8e78]:
+          - paragraph [ref=f8e79]: ENVIAR MENSAGEM
+          - generic [ref=f8e80]:
+            - text: Nome
+            - textbox "Nome" [ref=f8e81]:
+              - /placeholder: O teu nome
+          - generic [ref=f8e82]:
+            - text: Email ou telefone
+            - textbox "Email ou telefone" [ref=f8e83]:
+              - /placeholder: Como te contactamos
+          - generic [ref=f8e84]:
+            - text: Mensagem
+            - textbox "Mensagem" [ref=f8e85]:
+              - /placeholder: Conta-nos sobre o teu projeto...
+          - button "Enviar por WhatsApp" [ref=f8e86]
+          - paragraph [ref=f8e90]:
+            - text: Também podes escrever para
+            - link "as nossas redes" [ref=f8e91] [cursor=pointer]:
+              - /url: "#"
+            - text: "ou ligar directamente:"
+            - link "951 175 720" [ref=f8e92] [cursor=pointer]:
+              - /url: tel:+244951175720
+    - contentinfo [ref=f8e93]:
+      - generic [ref=f8e94]:
+        - img "Maré Alta Music" [ref=f8e95]
+        - paragraph [ref=f8e96]: © 2025 Maré Alta Music. Todos os direitos reservados.
+        - generic [ref=f8e97]: MÚSICA • CONEXÃO • FUTURO
+  - button "Open Next.js Dev Tools" [ref=f8e105] [cursor=pointer]

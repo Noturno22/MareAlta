@@ -1,0 +1,71 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e2]:
+    - banner [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - link "Maré Alta Music — Início":
+          - /url: /
+          - img "Maré Alta Music" [ref=f4e5] [cursor=pointer]
+        - navigation [ref=f4e6]:
+          - list [ref=f4e7]:
+            - listitem [ref=f4e8]:
+              - link "Início" [ref=f4e9] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f4e10]:
+              - link "Sobre Nós" [ref=f4e11] [cursor=pointer]:
+                - /url: /sobre
+            - listitem [ref=f4e12]:
+              - link "Serviços" [ref=f4e13] [cursor=pointer]:
+                - /url: /servicos
+            - listitem [ref=f4e15]:
+              - link "Portfólio" [ref=f4e16] [cursor=pointer]:
+                - /url: /portfolio
+            - listitem [ref=f4e17]:
+              - link "Artistas" [ref=f4e18] [cursor=pointer]:
+                - /url: /artistas
+            - listitem [ref=f4e19]:
+              - link "Contacto" [ref=f4e20] [cursor=pointer]:
+                - /url: /contacto
+        - generic [ref=f4e21]:
+          - button "Ativar modo claro" [ref=f4e22]
+          - link "Fale Conosco" [ref=f4e29] [cursor=pointer]:
+            - /url: /contacto
+    - main [ref=f4e33]:
+      - generic [ref=f4e35]:
+        - paragraph [ref=f4e36]: OS NOSSOS SERVIÇOS
+        - heading "Da ideia ao grande som." [level=1] [ref=f4e37]
+        - paragraph [ref=f4e38]: Soluções completas para artistas, bandas e criadores de conteúdo — desde a gravação até à distribuição.
+      - generic [ref=f4e39]:
+        - generic [ref=f4e41]:
+          - article [ref=f4e42]:
+            - heading "Gravação Profissional" [level=2] [ref=f4e47]
+            - paragraph [ref=f4e48]: Captamos a sua essência com a melhor tecnologia de áudio.
+            - paragraph [ref=f4e49]: Captação vocal e instrumental em ambiente controlado, com pré-amplificadores e microfones de estúdio. Direction, comping e edições incluídas.
+          - article [ref=f4e50]:
+            - heading "Mixagem e Masterização" [level=2] [ref=f4e53]
+            - paragraph [ref=f4e54]: Som limpo, equilibrado e pronto para o mundo.
+            - paragraph [ref=f4e55]: Balanceamento, efeitos, automações e loudness de entrega nas plataformas digitais (Spotify, YouTube, Apple Music).
+          - article [ref=f4e56]:
+            - heading "Produção Musical" [level=2] [ref=f4e62]
+            - paragraph [ref=f4e63]: Transformamos ideias em músicas de qualidade.
+            - paragraph [ref=f4e64]: Beat making, arranjos, composição e sound design — do esboço à instrumental final pronta para gravar.
+          - article [ref=f4e65]:
+            - heading "Videoclipes" [level=2] [ref=f4e70]
+            - paragraph [ref=f4e71]: Damos vida à sua música com vídeos impactantes e criativos.
+            - paragraph [ref=f4e72]: Conceito, gravação, direção e pós-produção de vídeos impactantes para lançamentos e conteúdo de redes sociais.
+          - article [ref=f4e73]:
+            - heading "Artistas & Talentos" [level=2] [ref=f4e77]
+            - paragraph [ref=f4e78]: Apoiamos e impulsionamos o seu talento.
+            - paragraph [ref=f4e79]: Mentoria artística, desenvolvimento de projeto, plano de lançamento e distribuição digital do seu catálogo.
+        - generic [ref=f4e80]:
+          - paragraph [ref=f4e84]:
+            - text: Não sabes qual é o serviço certo para ti?
+            - strong [ref=f4e85]: Fale connosco.
+          - link "Fale Conosco" [ref=f4e86] [cursor=pointer]:
+            - /url: /contacto
+    - contentinfo [ref=f4e90]:
+      - generic [ref=f4e91]:
+        - img "Maré Alta Music" [ref=f4e92]
+        - paragraph [ref=f4e93]: © 2025 Maré Alta Music. Todos os direitos reservados.
+        - generic [ref=f4e94]: MÚSICA • CONEXÃO • FUTURO
+  - button "Open Next.js Dev Tools" [ref=f4e102] [cursor=pointer]
+  - alert [ref=f4e106]

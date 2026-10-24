@@ -1,0 +1,81 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - img "Maré Alta Music" [ref=e5]
+      - navigation [ref=e6]:
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "Início" [ref=e9] [cursor=pointer]:
+              - /url: "#inicio"
+          - listitem [ref=e11]:
+            - link "Sobre Nós" [ref=e12] [cursor=pointer]:
+              - /url: "#inicio"
+          - listitem [ref=e13]:
+            - link "Serviços" [ref=e14] [cursor=pointer]:
+              - /url: "#servicos"
+          - listitem [ref=e15]:
+            - link "Portfólio" [ref=e16] [cursor=pointer]:
+              - /url: "#portfolio"
+          - listitem [ref=e17]:
+            - link "Artistas" [ref=e18] [cursor=pointer]:
+              - /url: "#servicos"
+          - listitem [ref=e19]:
+            - link "Contacto" [ref=e20] [cursor=pointer]:
+              - /url: "#contactos"
+      - link "Fale Conosco" [ref=e21] [cursor=pointer]:
+        - /url: "#contactos"
+  - generic [ref=e26]:
+    - paragraph [ref=e27]: PRODUÇÃO MUSICAL • GRAVAÇÃO • MIXAGEM • MASTERIZAÇÃO
+    - heading "Somos mais que música, somos conexão." [level=1] [ref=e28]: Somos mais quemúsica,somos conexão.
+    - paragraph [ref=e29]: Transformamos ideias em grandes produções.Bem-vindo à Maré Alta music.
+    - generic [ref=e30]:
+      - link [ref=e31] [cursor=pointer]:
+        - /url: "#servicos"
+      - link "Ver Portfólio" [ref=e35] [cursor=pointer]:
+        - /url: "#portfolio"
+  - generic [ref=e42]:
+    - paragraph [ref=e43]: OS NOSSOS SERVIÇOS
+    - heading "Da ideia ao grande som." [level=2] [ref=e44]: Da ideia aogrande som.
+    - paragraph [ref=e45]: Oferecemos soluções completas para artistas, bandas e criadores de conteúdo, desde a gravação até a distribuição.
+    - paragraph [ref=e49]: Qualidade, criatividadee profissionalismo em cada detalhe.
+    - list [ref=e50]:
+      - listitem [ref=e51]:
+        - heading "Gravação Profissional" [level=3] [ref=e56]
+        - paragraph [ref=e57]: Captamos a sua essência com a melhor tecnologia de áudio.
+      - listitem [ref=e58]:
+        - heading "Mixagem e Masterização" [level=3] [ref=e61]
+        - paragraph [ref=e62]: Som limpo, equilibrado e pronto para o mundo.
+      - listitem [ref=e63]:
+        - heading "Produção Musical" [level=3] [ref=e69]
+        - paragraph [ref=e70]: Transformamos ideias em músicas de qualidade.
+      - listitem [ref=e71]:
+        - heading "Videoclipes" [level=3] [ref=e76]
+        - paragraph [ref=e77]: Damos vida à sua música com vídeos impactantes e criativos.
+      - listitem [ref=e78]:
+        - heading "Artistas & Talentos" [level=3] [ref=e82]
+        - paragraph [ref=e83]: Apoiamos e impulsionamos o seu talento.
+  - generic [ref=e85]:
+    - heading "Juntos criamos grandes histórias." [level=2] [ref=e86]
+    - generic [ref=e87]:
+      - paragraph [ref=e88]: FALE CONOSCO
+      - link "951 175 720" [ref=e89] [cursor=pointer]:
+        - /url: tel:+244951175720
+      - link "+244 932 932 371" [ref=e90] [cursor=pointer]:
+        - /url: https://wa.me/244932932371
+    - generic [ref=e94]:
+      - paragraph [ref=e95]: SIGA-NOS
+      - generic [ref=e96]:
+        - link "Instagram" [ref=e97] [cursor=pointer]:
+          - /url: "#"
+        - link "Facebook" [ref=e102] [cursor=pointer]:
+          - /url: https://www.facebook.com/profile.php?id=61592795680498
+        - link "YouTube" [ref=e106] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e110]: Benfica, Zona Verde III, Rua 9
+    - link "Ligar" [ref=e114] [cursor=pointer]:
+      - /url: tel:+244951175720
+  - contentinfo [ref=e117]:
+    - generic [ref=e118]:
+      - img "Maré Alta Music" [ref=e119]
+      - paragraph [ref=e121]: © 2025 Maré Alta Music. Todos os direitos reservados.
+      - generic [ref=e122]: MÚSICA • CONEXÃO • FUTURO

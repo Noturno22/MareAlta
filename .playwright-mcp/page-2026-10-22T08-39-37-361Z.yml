@@ -1,0 +1,84 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - banner [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - img "Maré Alta Music" [ref=f1e5]
+        - navigation [ref=f1e6]:
+          - list [ref=f1e7]:
+            - listitem [ref=f1e8]:
+              - link "Início" [ref=f1e9] [cursor=pointer]:
+                - /url: "#inicio"
+            - listitem [ref=f1e11]:
+              - link "Sobre Nós" [ref=f1e12] [cursor=pointer]:
+                - /url: "#inicio"
+            - listitem [ref=f1e13]:
+              - link "Serviços" [ref=f1e14] [cursor=pointer]:
+                - /url: "#servicos"
+            - listitem [ref=f1e15]:
+              - link "Portfólio" [ref=f1e16] [cursor=pointer]:
+                - /url: "#portfolio"
+            - listitem [ref=f1e17]:
+              - link "Artistas" [ref=f1e18] [cursor=pointer]:
+                - /url: "#servicos"
+            - listitem [ref=f1e19]:
+              - link "Contacto" [ref=f1e20] [cursor=pointer]:
+                - /url: "#contactos"
+        - link "Fale Conosco" [ref=f1e21] [cursor=pointer]:
+          - /url: "#contactos"
+    - generic [ref=f1e26]:
+      - paragraph [ref=f1e27]: PRODUÇÃO MUSICAL • GRAVAÇÃO • MIXAGEM • MASTERIZAÇÃO
+      - heading "Somos mais que música, somos conexão." [level=1] [ref=f1e28]: Somos mais quemúsica,somos conexão.
+      - paragraph [ref=f1e29]: Transformamos ideias em grandes produções.Bem-vindo à Maré Alta music.
+      - generic [ref=f1e30]:
+        - link [ref=f1e31] [cursor=pointer]:
+          - /url: "#servicos"
+        - link "Ver Portfólio" [ref=f1e35] [cursor=pointer]:
+          - /url: "#portfolio"
+    - generic [ref=f1e42]:
+      - paragraph [ref=f1e43]: OS NOSSOS SERVIÇOS
+      - heading "Da ideia ao grande som." [level=2] [ref=f1e44]: Da ideia aogrande som.
+      - paragraph [ref=f1e45]: Oferecemos soluções completas para artistas, bandas e criadores de conteúdo, desde a gravação até a distribuição.
+      - paragraph [ref=f1e49]: Qualidade, criatividadee profissionalismo em cada detalhe.
+      - list [ref=f1e50]:
+        - listitem [ref=f1e51]:
+          - heading "Gravação Profissional" [level=3] [ref=f1e56]
+          - paragraph [ref=f1e57]: Captamos a sua essência com a melhor tecnologia de áudio.
+        - listitem [ref=f1e58]:
+          - heading "Mixagem e Masterização" [level=3] [ref=f1e61]
+          - paragraph [ref=f1e62]: Som limpo, equilibrado e pronto para o mundo.
+        - listitem [ref=f1e63]:
+          - heading "Produção Musical" [level=3] [ref=f1e69]
+          - paragraph [ref=f1e70]: Transformamos ideias em músicas de qualidade.
+        - listitem [ref=f1e71]:
+          - heading "Videoclipes" [level=3] [ref=f1e76]
+          - paragraph [ref=f1e77]: Damos vida à sua música com vídeos impactantes e criativos.
+        - listitem [ref=f1e78]:
+          - heading "Artistas & Talentos" [level=3] [ref=f1e82]
+          - paragraph [ref=f1e83]: Apoiamos e impulsionamos o seu talento.
+    - generic [ref=f1e85]:
+      - heading "Juntos criamos grandes histórias." [level=2] [ref=f1e86]
+      - generic [ref=f1e87]:
+        - paragraph [ref=f1e88]: FALE CONOSCO
+        - link "951 175 720" [ref=f1e89] [cursor=pointer]:
+          - /url: tel:+244951175720
+        - link "+244 932 932 371" [ref=f1e90] [cursor=pointer]:
+          - /url: https://wa.me/244932932371
+      - generic [ref=f1e94]:
+        - paragraph [ref=f1e95]: SIGA-NOS
+        - generic [ref=f1e96]:
+          - link "Instagram" [ref=f1e97] [cursor=pointer]:
+            - /url: "#"
+          - link "Facebook" [ref=f1e102] [cursor=pointer]:
+            - /url: https://www.facebook.com/profile.php?id=61592795680498
+          - link "YouTube" [ref=f1e106] [cursor=pointer]:
+            - /url: "#"
+        - paragraph [ref=f1e110]: Benfica, Zona Verde III, Rua 9
+      - link "Ligar" [ref=f1e114] [cursor=pointer]:
+        - /url: tel:+244951175720
+    - contentinfo [ref=f1e117]:
+      - generic [ref=f1e118]:
+        - img "Maré Alta Music" [ref=f1e119]
+        - paragraph [ref=f1e121]: © 2025 Maré Alta Music. Todos os direitos reservados.
+        - generic [ref=f1e122]: MÚSICA • CONEXÃO • FUTURO
+  - button "Open Next.js Dev Tools" [ref=f1e130] [cursor=pointer]
+  - alert [ref=f1e134]

@@ -1,0 +1,32 @@
+﻿node.exe : npm notice run mare@0.1.0 lint
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Users\Nortuno\AppData\Roamin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm notice run mare@0.1.0 lint:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm notice run eslint
+
+C:\Users\Nortuno\Desktop\DEV\Mare\scripts\inpaint.mjs
+  3:8  warning  'fs' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Nortuno\Desktop\DEV\Mare\scripts\qa-compare.mjs
+  20:9  warning  'ch' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Nortuno\Desktop\DEV\Mare\scripts\qa-light2.mjs
+  76:44  warning  'thr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  85:44  warning  'thr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Nortuno\Desktop\DEV\Mare\scripts\qa-light3.mjs
+  76:44  warning  'thr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  85:44  warning  'thr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Nortuno\Desktop\DEV\Mare\scripts\qa-probe.mjs
+  19:7   warning  'near' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  39:29  warning  'bgL' is assigned a value but never used   @typescript-eslint/no-unused-vars
+
+C:\Users\Nortuno\Desktop\DEV\Mare\scripts\qa-ref.mjs
+  93:10  warning  'vext' is defined but never used  @typescript-eslint/no-unused-vars
+
+Ô£û 9 problems (0 errors, 9 warnings)
+

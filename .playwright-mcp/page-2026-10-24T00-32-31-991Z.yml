@@ -1,0 +1,86 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - banner [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - img "Maré Alta Music" [ref=f1e5]
+        - navigation [ref=f1e6]:
+          - list [ref=f1e7]:
+            - listitem [ref=f1e8]:
+              - link "Início" [ref=f1e9] [cursor=pointer]:
+                - /url: "#inicio"
+            - listitem [ref=f1e11]:
+              - link "Sobre Nós" [ref=f1e12] [cursor=pointer]:
+                - /url: "#inicio"
+            - listitem [ref=f1e13]:
+              - link "Serviços" [ref=f1e14] [cursor=pointer]:
+                - /url: "#servicos"
+            - listitem [ref=f1e15]:
+              - link "Portfólio" [ref=f1e16] [cursor=pointer]:
+                - /url: "#portfolio"
+            - listitem [ref=f1e17]:
+              - link "Artistas" [ref=f1e18] [cursor=pointer]:
+                - /url: "#servicos"
+            - listitem [ref=f1e19]:
+              - link "Contacto" [ref=f1e20] [cursor=pointer]:
+                - /url: "#contactos"
+        - button "Alternar tema" [ref=f1e21]
+        - link "Fale Conosco" [ref=f1e24] [cursor=pointer]:
+          - /url: "#contactos"
+    - main [ref=f1e28]:
+      - generic [ref=f1e30]:
+        - paragraph [ref=f1e31]: PRODUÇÃO MUSICAL • GRAVAÇÃO • MIXAGEM • MASTERIZAÇÃO
+        - heading "Somos mais que música, somos conexão." [level=1] [ref=f1e32]: Somos mais quemúsica,somos conexão.
+        - paragraph [ref=f1e33]: Transformamos ideias em grandes produções.Bem-vindo à Maré Alta music.
+        - generic [ref=f1e34]:
+          - link [ref=f1e35] [cursor=pointer]:
+            - /url: "#servicos"
+          - link "Ver Portfólio" [ref=f1e39] [cursor=pointer]:
+            - /url: "#portfolio"
+      - generic [ref=f1e45]:
+        - paragraph [ref=f1e46]: OS NOSSOS SERVIÇOS
+        - heading "Da ideia ao grande som." [level=2] [ref=f1e47]: Da ideia aogrande som.
+        - paragraph [ref=f1e48]: Oferecemos soluções completas para artistas, bandas e criadores de conteúdo, desde a gravação até a distribuição.
+        - paragraph [ref=f1e51]: Qualidade, criatividadee profissionalismo em cada detalhe.
+        - list [ref=f1e52]:
+          - listitem [ref=f1e53]:
+            - heading "Gravação Profissional" [level=3] [ref=f1e58]
+            - paragraph [ref=f1e59]: Captamos a sua essência com a melhor tecnologia de áudio.
+          - listitem [ref=f1e60]:
+            - heading "Mixagem e Masterização" [level=3] [ref=f1e63]
+            - paragraph [ref=f1e64]: Som limpo, equilibrado e pronto para o mundo.
+          - listitem [ref=f1e65]:
+            - heading "Produção Musical" [level=3] [ref=f1e71]
+            - paragraph [ref=f1e72]: Transformamos ideias em músicas de qualidade.
+          - listitem [ref=f1e73]:
+            - heading "Videoclipes" [level=3] [ref=f1e78]
+            - paragraph [ref=f1e79]: Damos vida à sua música com vídeos impactantes e criativos.
+          - listitem [ref=f1e80]:
+            - heading "Artistas & Talentos" [level=3] [ref=f1e84]
+            - paragraph [ref=f1e85]: Apoiamos e impulsionamos o seu talento.
+      - generic [ref=f1e87]:
+        - heading "Juntos criamos grandes histórias." [level=2] [ref=f1e88]
+        - generic [ref=f1e89]:
+          - paragraph [ref=f1e90]: FALE CONNOSCO
+          - link "951 175 720" [ref=f1e91] [cursor=pointer]:
+            - /url: tel:+244951175720
+          - link "+244 932 932 371" [ref=f1e92] [cursor=pointer]:
+            - /url: https://wa.me/244932932371
+        - generic [ref=f1e96]:
+          - paragraph [ref=f1e97]: SIGA-NOS
+          - generic [ref=f1e98]:
+            - link "Instagram" [ref=f1e99] [cursor=pointer]:
+              - /url: "#"
+            - link "Facebook" [ref=f1e104] [cursor=pointer]:
+              - /url: https://www.facebook.com/profile.php?id=61592795680498
+            - link "YouTube" [ref=f1e108] [cursor=pointer]:
+              - /url: "#"
+          - paragraph [ref=f1e112]: Benguela, Angola
+        - link "Ligar" [ref=f1e116] [cursor=pointer]:
+          - /url: tel:+244951175720
+    - contentinfo [ref=f1e119]:
+      - generic [ref=f1e120]:
+        - img "Maré Alta Music" [ref=f1e121]
+        - paragraph [ref=f1e122]: © 2025 Maré Alta Music. Todos os direitos reservados.
+        - generic [ref=f1e123]: MÚSICA • CONEXÃO • FUTURO
+  - button "Open Next.js Dev Tools" [ref=f1e131] [cursor=pointer]
+  - alert [ref=f1e135]
