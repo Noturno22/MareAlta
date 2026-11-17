@@ -73,8 +73,8 @@ export const services: Service[] = [
 
 export const contacts = {
   label: "FALE CONNOSCO",
-  phone: "951 175 720",
-  phoneHref: "tel:+244951175720",
+  phone: "926 717 730",
+  phoneHref: "tel:+244926717730",
   whatsapp: "+244 932 932 371",
   whatsappHref: "https://wa.me/244932932371",
   follow: "SIGA-NOS",
