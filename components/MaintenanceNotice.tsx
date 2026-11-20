@@ -121,7 +121,7 @@ export default function MaintenanceNotice() {
               color: "var(--text)",
             }}
           >
-            O site ficará fora do ar dentro de 5 dias
+            O site ficará fora do ar dentro de 2 dias
           </h2>
 
           <p
@@ -152,7 +152,7 @@ export default function MaintenanceNotice() {
               className="font-display"
               style={{ fontSize: 34, lineHeight: 1, fontWeight: 800, color: "var(--accent)" }}
             >
-              05
+              02
             </span>
             <span
               aria-hidden
